@@ -1,0 +1,25 @@
+{
+  "name": "magento-swagger-slate-generator",
+  "version": "1.0.0",
+  "description": "Magento Swagger Slate Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-magestore:berooney/magento-swagger-slate-generator.git"
+  },
+  "keywords": [
+    "magento",
+    "swagger",
+    "slate"
+  ],
+  "author": "Rooney",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "widdershins": "^3.6.7"
+  }
+}
